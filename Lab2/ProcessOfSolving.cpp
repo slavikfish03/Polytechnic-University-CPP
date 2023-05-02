@@ -5,8 +5,8 @@
 
 using namespace std;
 
-const double PI = 3.1415926;  // PI и E в ответах означают,
-const double E = 2.7182818;  // что нет действительных решений
+const double PI = 3.1415926;  // PI Рё E РІ РѕС‚РІРµС‚Р°С… РѕР·РЅР°С‡Р°СЋС‚, 
+const double E = 2.7182818;  // С‡С‚Рѕ РЅРµС‚ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅС‹С… СЂРµС€РµРЅРёР№
 
 
 vector<double> SolveQuadraticEquation(double a, double b, double c) {
